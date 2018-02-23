@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on A Hugo website</title>
-    <link>/github.com/adolginow/categories/</link>
+    <link>/alex_dolginow/categories/</link>
     <description>Recent content in Categories on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/github.com/adolginow/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/alex_dolginow/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>/github.com/adolginow/categories/r/</link>
+      <link>/alex_dolginow/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/github.com/adolginow/categories/r/</guid>
+      <guid>/alex_dolginow/categories/r/</guid>
       <description></description>
     </item>
     
